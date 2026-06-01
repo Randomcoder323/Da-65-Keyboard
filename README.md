@@ -33,3 +33,5 @@ I made this to improve my pcb making skills. I used lots of new items like the s
 | 74AHCT125 SOIC-14           | LED level shifter                       | 1        | 2.95             | https://a.aliexpress.com/_mte1tpN | AliExpress  |
 | Cherry MX Switches          | Key switches                            | 67       | 9.48             | https://a.aliexpress.com/_mO8yt4x | AliExpress  |
 
+
+**Total** $93.38 (with taxes)
